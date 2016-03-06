@@ -149,7 +149,7 @@ public class MainActivity extends AppCompatActivity implements PersonAdapter.OnP
                 .setPositiveButton(R.string.ok, new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
-                        Person p = new com.icheung.hellofirebase.model.Person(firstName.getText().toString(),
+                        Person p = new Person(firstName.getText().toString(),
                                 lastName.getText().toString(),
                                 dob.getText().toString(),
                                 zipCode.getText().toString());
