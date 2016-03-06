@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HelloFirebase</string>
+
+    <string name="new_person">New Person</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="dob">Date of Birth</string>
+    <string name="zip_code">Zip Code</string>
+
+    <string name="yes">Yes</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="confirm_delete_message">Are you sure you want to delete this person?</string>
+
+    <string name="firebase_endpoint" translatable="false">https://blazing-torch-4282.firebaseio.com/</string>
+</resources>
